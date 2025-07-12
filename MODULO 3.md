@@ -1,0 +1,1 @@
+Reconocimiento activo: es un método de recopilación en el que las herramientas utilizadas envían sondeos a la red o sistemas para obtener respuestas que luego se utilizan para determinar la postura 
