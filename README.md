@@ -1,1 +1,1 @@
-# hacking-tico
+# hacking-ético
