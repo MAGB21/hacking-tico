@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "22c25dafc43af847",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa07b8739fb0b15c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b573d8ca5905f2b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a45e1f5ccaa1f78e",
+    "type": "split",
+    "children": [
+      {
+        "id": "01d8c8100d70ab5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b008bc0b948dbd26",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ead7576ca769b51f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "71b437603ac85b75",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5f99149319dd093c",
+    "type": "split",
+    "children": [
+      {
+        "id": "57890a6d8b48da14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "739f5fb47aba3750",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "3c99f117f878079a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "examen 2 cisco.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from examen 2 cisco"
+            }
+          },
+          {
+            "id": "27b29efb2f827c9a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7057a23a03876dcf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "examen 2 cisco.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of examen 2 cisco"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "739f5fb47aba3750",
+  "lastOpenFiles": [
+    "hacking-tico/MODULO 2.md",
+    "hacking-tico/MODULO 3.md",
+    "hacking-tico/MODULO 1.md",
+    "hacking-tico/NOTAS.md",
+    "hacking-tico/COMANDOS.md",
+    "hacking-tico/README.md",
+    "Examen_Completo_PenTest_Planificacion.md",
+    "hacking-tico",
+    "Examen_PenTest_Planificacion.md",
+    "Sin confirmar 151418.crdownload",
+    "examen 2 cisco.md",
+    "Sin confirmar 916960.crdownload"
+  ]
+}

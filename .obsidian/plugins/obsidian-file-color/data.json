@@ -1,0 +1,17 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "UOkif-6eTthXy6j2SCEel",
+      "name": "principal",
+      "value": "#00f0e0"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "hacking-tico",
+      "color": "UOkif-6eTthXy6j2SCEel"
+    }
+  ]
+}
